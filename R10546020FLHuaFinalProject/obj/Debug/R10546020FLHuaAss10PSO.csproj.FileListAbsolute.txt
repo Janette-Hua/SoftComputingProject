@@ -1,0 +1,36 @@
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\bin\Debug\R10546020FLHuaAss10PSO.exe.config
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\bin\Debug\R10546020FLHuaAss10PSO.exe
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\bin\Debug\R10546020FLHuaAss10PSO.pdb
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.csproj.AssemblyReference.cache
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.Properties.Resources.resources
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.csproj.GenerateResource.cache
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.csproj.CoreCompileInputs.cache
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.exe
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.pdb
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\bin\Debug\COPBenchmark.dll
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\bin\Debug\TeeChart.dll
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\bin\Debug\COPBenchmark.pdb
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\bin\Debug\COPBenchmark.xml
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\bin\Debug\TeeChart.xml
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.MainForm.resources
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\bin\Debug\FLHuaGALibrary.dll
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\bin\Debug\FLHuaGALibrary.pdb
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution\R10546020FLHuaAss10PSO\bin\Debug\FLHuaGALibrary.xml
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\bin\Debug\R10546020FLHuaAss10PSO.exe.config
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\bin\Debug\R10546020FLHuaAss10PSO.exe
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\bin\Debug\R10546020FLHuaAss10PSO.pdb
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\bin\Debug\COPBenchmark.dll
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\bin\Debug\FLHuaGALibrary.dll
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\bin\Debug\TeeChart.dll
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\bin\Debug\COPBenchmark.pdb
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\bin\Debug\COPBenchmark.xml
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\bin\Debug\FLHuaGALibrary.pdb
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\bin\Debug\FLHuaGALibrary.xml
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\bin\Debug\TeeChart.xml
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.csproj.AssemblyReference.cache
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.MainForm.resources
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.Properties.Resources.resources
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.csproj.GenerateResource.cache
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.csproj.CoreCompileInputs.cache
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.exe
+C:\Users\zixin\Desktop\R10546020FLHuaAss10PSOSolution - Copy\R10546020FLHuaAss10PSO\obj\Debug\R10546020FLHuaAss10PSO.pdb
