@@ -11,3 +11,6 @@ Interface design and functionalities
     1. Compare different algorithms: -> Evaluate (after hitting this button, you will get the results in the right panel in a table form, in which the columns are the name of the algorithm, benchmark problem, dimension, mean, standard deviation)
     2. Plot convergence plot: in the lower left corner, users may select a benchmark problem from the dropdown list and plot the convergence plot.
     3. Export the table: Export -> Table -> Result
+
+![alt text](https://github.com/Janette-Hua/SoftComputingProject.git/UI/UI.png)
+![logo](https://github.com/libgit2/libgit2sharp/raw/master/square-logo.png)
