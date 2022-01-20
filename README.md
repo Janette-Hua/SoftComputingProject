@@ -12,5 +12,5 @@ Interface design and functionalities
     2. Plot convergence plot: in the lower left corner, users may select a benchmark problem from the dropdown list and plot the convergence plot.
     3. Export the table: Export -> Table -> Result
 
-![alt text](https://github.com/Janette-Hua/SoftComputingProject.git/UI/UI.png)
+![alt text](https://github.com/Janette-Hua/SoftComputingProject/tree/main/UI/UI.png)
 ![logo](https://github.com/libgit2/libgit2sharp/raw/master/square-logo.png)
