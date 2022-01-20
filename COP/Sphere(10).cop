@@ -1,0 +1,31 @@
+Title: Sphere(10)
+Type: Minimization
+Dimension: 10
+LowerBoundsUpperBounds: Enumerate
+-5.12 5.12
+-5.12 5.12
+-5.12 5.12
+-5.12 5.12
+-5.12 5.12
+-5.12 5.12
+-5.12 5.12
+-5.12 5.12
+-5.12 5.12
+-5.12 5.12
+NumberOfOptimalSolution: 1
+0 0 0 0 0 0 0 0 0 0
+BestObjectiveValue: 0
+NumberOfLinkedAssemblies: 0
+CodingLanguage: CSharp
+GlobalDefinition: 
+
+InitiationFunction: 
+
+ObjectiveFunction: 
+int n = x.Length;
+for(int i =0; i < n; i++)
+{
+     objective += x[i] * x[i] ;
+}
+GradientFunction: 
+

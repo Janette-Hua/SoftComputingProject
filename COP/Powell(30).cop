@@ -1,0 +1,53 @@
+Title: Powell(30)
+Type: Minimization
+Dimension: 30
+LowerBoundsUpperBounds: Enumerate
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+-4 5
+NumberOfOptimalSolution: 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BestObjectiveValue: 0
+NumberOfLinkedAssemblies: 0
+CodingLanguage: CSharp
+GlobalDefinition: 
+
+InitiationFunction: 
+
+ObjectiveFunction: 
+int n = x.Length;
+double divide = n/4;
+int upper = Convert.ToInt32(Math.Floor(divide));
+for(int i =1; i<=upper;i++)
+{
+     objective+=(x[4*i-4]+10*x[4*i-3])*(x[4*i-4]+10*x[4*i-3])+5*(x[4*i-2]+x[4*i-1])*(x[4*i-2]+x[4*i-1])+(x[4*i-3]+2*x[4*i-2])*(x[4*i-3]+2*x[4*i-2])*(x[4*i-3]+2*x[4*i-2])*(x[4*i-3]+2*x[4*i-2])+10*(x[4*i-4]+x[4*i-1])*(x[4*i-4]+x[4*i-1])*(x[4*i-4]+x[4*i-1])*(x[4*i-4]+x[4*i-1]);
+}
+GradientFunction: 
+

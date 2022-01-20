@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FLHuaGALibrary</name>
+    </assembly>
+    <members>
+        <member name="M:FLHuaGALibrary.BinaryGA.#ctor(System.Int32,FLHuaGALibrary.OptimizationType,FLHuaGALibrary.ObjectiveFunction{System.Byte},System.Windows.Forms.SplitterPanel)">
+            <summary>
+            Create a Binary GA Solver
+            </summary>
+            <param name="numberOfVariables"></param>
+            <param name="optimizationType"></param>
+            <param name="objectiveFunction"> The delegate to the objective function </param>
+        </member>
+        <member name="F:FLHuaGALibrary.GAMonitor`1.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:FLHuaGALibrary.GAMonitor`1.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:FLHuaGALibrary.GAMonitor`1.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:FLHuaGALibrary.GenericGASolver`1">
+            <summary>
+             Generic GA solver.
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:FLHuaGALibrary.GenericGASolver`1.PopulationSize">
+            <summary>
+             User need to specify the number of chromosomes evolved by the GA.
+            </summary>
+        </member>
+        <member name="M:FLHuaGALibrary.GenericGASolver`1.OnAfterInitialization">
+            <summary>
+             Fire the AfterInitialization event;
+            </summary>
+        </member>
+        <member name="M:FLHuaGALibrary.GenericGASolver`1.#ctor(System.Int32,FLHuaGALibrary.OptimizationType,FLHuaGALibrary.ObjectiveFunction{`0},System.Windows.Forms.SplitterPanel)">
+            <summary>
+             Generic GA solver to be inherited from other classes which may use different encoding methods, e.g., binary-encoded, integer-encoded...
+            </summary>
+            <param name="numberOfVariables"></param>
+            <param name="optimizationType"></param>
+            <param name="objectiveFunction"></param>
+            <param name="hostPanelForMonitor"></param>
+        </member>
+        <member name="M:FLHuaGALibrary.GenericGASolver`1.Reset">
+            <summary>
+             Reallocated memory for the GA operations and do the chromosome initialization.
+            </summary>
+        </member>
+        <member name="M:FLHuaGALibrary.GenericGASolver`1.PerformMutationOperation">
+            <summary>
+             Gene-based or Population-based
+              Gene-based: randomly generate number to select the gene to be mutated 
+                total number of mutated genes = (mutation rate) * (total number of genes)
+                total number of genes = (number of chromosomes) * (number of genes in a chromosone)
+              Poplation-based: randomly select a chromosome to do mutation
+            </summary>
+        </member>
+        <member name="T:FLHuaGALibrary.MutationMode">
+            <summary>
+             The mutation operation mode.
+            </summary>
+        </member>
+        <member name="F:FLHuaGALibrary.MutationMode.GeneNumberBased">
+            <summary>
+             The mutation rate is based on the total number of genes.
+            </summary>
+        </member>
+        <member name="F:FLHuaGALibrary.MutationMode.PopulationSizeBased">
+            <summary>
+             The mutation rate is based on the total number of populations.
+            </summary>
+        </member>
+        <member name="T:FLHuaGALibrary.PermutationGA">
+            <summary>
+             Permutation GA Solver.
+            </summary>
+        </member>
+        <member name="T:FLHuaGALibrary.PermutationCrossoverOperator">
+            <summary>
+             Canonical crossover operator
+            </summary>
+        </member>
+        <member name="T:FLHuaGALibrary.PermutationMutationOperator">
+            <summary>
+             Canonical mutation operator
+            </summary>
+        </member>
+        <member name="T:FLHuaGALibrary.RealNumberEncodedGA">
+            <summary>
+             Real-number-encoded GA Solver.
+            </summary>
+        </member>
+        <member name="M:FLHuaGALibrary.RealNumberEncodedGA.#ctor(System.Int32,System.Double[],System.Double[],FLHuaGALibrary.OptimizationType,FLHuaGALibrary.ObjectiveFunction{System.Double},System.Windows.Forms.SplitterPanel)">
+            <summary>
+             The user need to provide the lower bound and upper bound to the constructor.
+            </summary>
+            <param name="numberOfVariables"></param>
+            <param name="lowerBounds"></param>
+            <param name="upperBounds"></param>
+            <param name="optimizationType"></param>
+            <param name="objectiveFunction"></param>
+            <param name="hostPanelForMonitor"></param>
+        </member>
+    </members>
+</doc>

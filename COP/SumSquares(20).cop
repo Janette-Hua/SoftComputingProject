@@ -1,0 +1,41 @@
+Title: SumSquares(20)
+Type: Minimization
+Dimension: 20
+LowerBoundsUpperBounds: Enumerate
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+-10 10
+NumberOfOptimalSolution: 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BestObjectiveValue: 0
+NumberOfLinkedAssemblies: 0
+CodingLanguage: CSharp
+GlobalDefinition: 
+
+InitiationFunction: 
+
+ObjectiveFunction: 
+int n = x.Length;
+for(int i=0 ; i< n ; i++)
+{
+     objective += (i+1)*x[i]*x[i];
+}
+GradientFunction: 
+
